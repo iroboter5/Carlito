@@ -26,6 +26,7 @@ from yarl import URL
 import re
 import random
 from draft_to_calendar import Draft2Calendar
+import moodlews
 import moodle_client
 from moodle_client import MoodleClient
 import S5Crypto
